@@ -1,7 +1,7 @@
 # CleverTweets
 Displaying CleverTech's Twitter feed using the React framework
 
-## Live Demo (running from Ubuntu Server 15.10)
+## Live Demo (running on Ubuntu Server 15.10)
 http://juancuartasubuntu.cloudapp.net/
 
 ## Building the project
