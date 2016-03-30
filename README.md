@@ -1,6 +1,9 @@
 # CleverTweets
 Displaying CleverTech's Twitter feed using the React framework
 
+## Live Demo (running from Ubuntu Server 15.10)
+http://juancuartasubuntu.cloudapp.net/
+
 ## Building the project
 - On a terminal, go to *src* folder
 - Install required packages: <code>npm install</code>
@@ -14,6 +17,3 @@ Displaying CleverTech's Twitter feed using the React framework
 ## Running the project
 - On the terminal type <code>node server.js</code>
 - Go to the browser [http://localhost:3000/](http://localhost:3000/)
-
-## Live Demo
-http://juancuartasubuntu.cloudapp.net/
